@@ -4,6 +4,14 @@ Just some mini game for tinkoff contest.
 
 Flappy coin flying beetween historic stocks candles
 
+![image](https://user-images.githubusercontent.com/27200843/169881953-da0cbfaa-4507-477c-8152-4085acb488df.png)
+
+<details>
+    <summary>Gameplay</summary>
+
+![tcoin](https://user-images.githubusercontent.com/27200843/169881636-a2a4e8c9-9bef-4c8b-8ddd-c68017c8883a.gif)
+</details>
+
 ## Installation
 
 ```bash
