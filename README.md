@@ -1,4 +1,4 @@
-# flappy
+# flappy tinkbird
 
 Just some mini game for tinkoff contest.
 
