@@ -1,0 +1,4 @@
+pygame
+python-dotenv
+click
+tinkoff-investments
